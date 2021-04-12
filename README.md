@@ -1,6 +1,6 @@
 # static-repo
 
-Converts all the source files in a GitHub repo in to code-highlighted html files,
+Converts all the source files in a git repo in to code-highlighted html files,
 and builds a docker image to host a file browser for them.
 
 ```
