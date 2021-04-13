@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO=git@github.com:jaburns/ion
+REPO=git@github.com:jaburns/static-repo
 STYLE=autumn
 
 if [[ "$1" == '--inner' ]]; then
